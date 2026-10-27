@@ -1,4 +1,4 @@
-FROM php:8.2-fpm-alpine
+FROM php:8.4-fpm-alpine
 
 # Set environment variables
 ENV bludit_version=3.20.0 \
